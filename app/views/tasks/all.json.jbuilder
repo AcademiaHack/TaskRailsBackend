@@ -1,0 +1,1 @@
+json.array! @tasks, :id, :title, :description, :end, :ready
